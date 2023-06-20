@@ -8,10 +8,10 @@ function referirAmigos() {
             let amigo = prompt("Cargar nombre de amigo");
             console.log("Amigo nr " + i + " Nombre: " + amigo);
         }
+        console.log("Felicitaciones tu codigo de descuento es: CAPO30");
     } else {
-        console.log("Se te perdio un ofertazo")
+        console.log("Se te perdio un ofertazo");
     }
-    console.log("Felicitaciones tu codigo de descuento es: CAPO30");
 }
 
 function listaActividades() {
@@ -63,7 +63,7 @@ if (pedirDieta) {
         }
     }
 
-} else{
+} else {
     console.log("Segui navegando");
 }
 
